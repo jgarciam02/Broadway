@@ -1,0 +1,8 @@
+* {Helvetica;text-align: center;}
+#banner {background-image: url("/Users/jgarciam/Documents/Projects/Broadway/Resources/Images/the-flatiron-building.png");}
+h1 {font-size: 70px;font-weight: bold;color: white;}
+h2 {font-size: 32px; font-weight: bold;}
+h3 {font-size: 23px; font-weight: bold;}
+p {font-size: 14px;}
+h3 #banner {color:white;}
+footer {background-color: black; color:white;}
